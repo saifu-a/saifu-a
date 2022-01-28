@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **sksaifahmed0@gmail.com**
 
----
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://angular.io" target="_blank">
